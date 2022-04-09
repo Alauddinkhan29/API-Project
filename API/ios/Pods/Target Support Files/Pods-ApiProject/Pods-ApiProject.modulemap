@@ -1,0 +1,6 @@
+module Pods_ApiProject {
+  umbrella header "Pods-ApiProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
