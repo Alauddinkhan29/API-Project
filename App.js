@@ -15,9 +15,7 @@ class app extends Component {
   }
 
   componentDidMount() {
-    // setInterval(() =>
-    //   this.callNasa()
-    //   , 100)
+
     this.callNasa();
   }
 
